@@ -4,6 +4,8 @@ A Streamlit app that generates five China-market startup ideas from a founder's 
 
 Built with Python, Streamlit and the Zhipu GLM-5.3 API.
 
+**Live demo:** https://ai-businessideator.streamlit.app/ (access code required, contact me via LinkedIn)
+
 ## What it does
 
 The user enters a founder profile: skills, available capital, target market, timeline, risk tolerance, education, experience, geographic focus and team size. The app returns five ideas, each with:
