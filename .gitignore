@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated output (keep samples/ folder)
+business_ideas_*.json
+business_ideas_*.pdf
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
